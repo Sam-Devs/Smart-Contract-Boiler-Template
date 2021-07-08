@@ -15,7 +15,7 @@
         "": ["ast"]
       }
     },
-    "evmVersion": "istanbul",
+    "evmVersion": "berlin",
     "optimizer": {
       "enabled": true,
       "runs": 999999
